@@ -230,6 +230,12 @@
 [AI 相关]
 /(?<![a-zA-Z])ai(?![a-zA-Z])/
 人工智能
+OPENAI
+ChatGPT
+Anthropic
+Claude
+Agent
+Skill
 
 [芯片]
 芯片
