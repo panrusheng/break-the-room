@@ -61,10 +61,12 @@ platforms:
       name: "Product Hunt"
     - id: "hackernews"
       name: "Hacker News"
+    - id: "xueqiu"
+      name: "雪球"
     - id: "zhihu"
       name: "知乎"
     - id: "bilibili-hot-search"
-      name: "bilibili 热搜"
+      name: "b站"
 
 
 
